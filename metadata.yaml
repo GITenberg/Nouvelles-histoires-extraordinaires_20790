@@ -1,0 +1,50 @@
+_repo: Nouvelles-histoires-extraordinaires_20790
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Baudelaire, Charles
+    aliases:
+    - Baudelaire-Dufays, Charles Pierre
+    - Baudelaire-Dufaÿs, Charles Pierre
+    birthdate: 1821
+    deathdate: 1867
+    gutenberg_agent_id: '1947'
+    url: http://www.gutenberg.org/2009/agents/1947
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Baudelaire
+    - http://fr.wikipedia.org/wiki/Charles_Baudelaire
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2007-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20790'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poe, Edgar Allan, 1809-1849 -- Translations into French'
+- !lcsh 'Fantasy fiction, American -- Translations into French'
+- !lcc 'PS'
+tableOfContents: Notes nouvelles sur Edgar Poe -- Le démon de la perversité -- Le
+  chat noir -- William Wilson -- L'homme des foules -- Le coeur révélateur -- Bérénice
+  -- La chute de la maison Usher -- Le puits et le pendule -- Hop-Frog -- Le barrique
+  d'Amontillado -- Le masque de la mort rouge -- Le roi peste -- Le diable dans le
+  beffroi -- Lionnerie -- Quatre bêtes en une -- Petite discussion avec une momie
+  -- Puissance de la parole -- Colloque entre Monos et Una -- Conversation d'Eiros
+  avec Charmion -- Ombre -- Silence -- L'île de la fée -- Le portait ovale.
+title: Nouvelles histoires extraordinaires
+url: http://www.gutenberg.org/ebooks/20790
